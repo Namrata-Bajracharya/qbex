@@ -1,0 +1,57 @@
+
+@media only screen and (max-width:1024px) {
+    .container{max-width:100%;}
+    .try{height: 135vh !important;}
+    .bg-google-icon{display: none;}
+    .bg .font {position: absolute; left: 35%;top: 56%;}
+    .firstr img, .secr img, .thirdr img{width: 80%;}
+    .test{}
+
+}
+@media only screen and (max-width:780px) {
+    .container{
+        max-width:100%;
+    }
+    .try{height: 102vh;}
+    .description,.banner-content,.p-font,.bttn-icon img{width: auto;}
+    .services-btn,.rightimg,.features h3,.thirdr,.bttn, .menu,.bg-google-icon{display: none!important;}
+    .description h3{font-size:34px; }
+    .test{height:700px;}
+    .emg img,.row1 img,.row2 img,.try-head img, .down-banner img{width: 100%;}
+    .use{padding-top:0; padding-bottom: 75px!important;}
+    .use h3{display: block;font-size: 24px;}
+    .use{padding-left: 0px!important;}
+    .navbar{ width:100%;}
+    #navbarSupportedContent{width: 100%;background-color:none;padding: 0; }
+    header{ #navbarSupportedContent{width: 100%;background-color: var(--brand);padding: 0; }}
+    .pg2{padding-top: 0;}
+    .pg2-content{padding-top: 105px!important;}
+    .pack.card{margin-bottom: 25px;}
+    .prospectus{ text-align: center;}
+    .down .prospectus .card .botton {font-size: 16px;}
+    .bg .font {position: absolute; left:12%;top: 45%; }
+    .bg .banner-content {
+        padding-top: 250px;
+    }
+}
+@media only screen and (max-width:480px) {
+    .container{max-width: 100%;}
+    .description,.banner-content,.p-font,.bttn-icon img{width: auto;}
+    .services-btn,.rightimg,.features h3,.thirdr,.bttn, .menu{display: none!important;}
+    .description h3{font-size:34px; }
+    .test{height:1200px!important;}
+    .emg img,.row1 img,.row2 img,.try-head img, .down-banner img{width: 100%;}
+    .use{padding-top:0; padding-bottom: 75px!important;}
+    .use h3{display: block;font-size: 24px;}
+    .use{padding-left: 0px!important;}
+    .navbar{ width:100%;}
+    #navbarSupportedContent{width: 100%;background-color: #ffffff;padding: 0; }
+    header{ #navbarSupportedContent{width: 100%;background-color: var(--brand);padding: 0; }}
+    .pg2{padding-top: 0;}
+    .pg2-content{padding-top: 105px!important;
+    h3{font-size: 52px!important;}}
+    .pack.card{margin-bottom: 25px;}
+    .prospectus{ text-align: center;}
+    .down .prospectus .card .botton {font-size: 16px;}
+
+}

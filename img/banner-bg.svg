@@ -1,0 +1,265 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600.655" height="766.608" viewBox="0 0 1600.655 766.608">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4151f1"/>
+      <stop offset="1" stop-color="#55bffd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="57" height="328" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.052" y1="0.199" x2="0.99" y2="0.955" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ededfd"/>
+      <stop offset="1" stop-color="#f0faff"/>
+    </linearGradient>
+  </defs>
+  <g id="banner-bg" transform="translate(0 0.608)">
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="1600" height="766" fill="#fff"/>
+    <g id="Group_142" data-name="Group 142">
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M-997.913,995c-12.977,0-26.139-.542-39.122-1.61-12.961-1.066-26.091-2.687-39.025-4.815-9.2-1.515-18.08-3.405-26.382-5.62a222.79,222.79,0,0,1-25.293-8.348,189.247,189.247,0,0,1-23.938-11.56,173.412,173.412,0,0,1-22.316-15.256c-15.165-12.224-29.632-25.842-43.007-38.737-28.5-27.473-58-44.754-90.2-52.832-28.182-7.07-56.844-8.708-83.619-9.424-20.367-.544-35.662-1.964-49.593-4.6-8.646-1.638-17.241-3.643-25.547-5.961-8.262-2.306-16.47-4.986-24.394-7.964-7.883-2.964-15.706-6.306-23.251-9.935-7.507-3.61-14.948-7.6-22.118-11.872a294.29,294.29,0,0,1-40.88-29.427,329.66,329.66,0,0,1-36.472-36.785,276.271,276.271,0,0,1-17.8-23.317,242.877,242.877,0,0,1-14.864-24.874,222.726,222.726,0,0,1-11.624-26.53,215.282,215.282,0,0,1-8.085-28.285c-1.581-7.425-2.456-15.127-3.3-22.576-.389-3.425-.791-6.965-1.256-10.433v-6.993c.087-.62.189-1.244.288-1.848a37.951,37.951,0,0,0,.51-4.014,148.76,148.76,0,0,1,2.421-19.866,139.6,139.6,0,0,1,5.046-18.963,138.674,138.674,0,0,1,7.681-18.049,146.076,146.076,0,0,1,10.328-17.122,163.85,163.85,0,0,1,15.75-19.21,170.978,170.978,0,0,1,18.071-16.351,190.743,190.743,0,0,1,20.13-13.746,223.959,223.959,0,0,1,21.927-11.4c11.39-5.162,23.288-9.706,34.794-14.1,6.964-2.66,14.166-5.41,21.188-8.272a279.278,279.278,0,0,0,40.579-20.429,243.978,243.978,0,0,0,35.3-26.265,234.528,234.528,0,0,0,29.812-32.332,250.838,250.838,0,0,0,24.11-38.63c6.112-12.071,12.42-24.3,18.52-36.12l.019-.037c3.181-6.165,6.47-12.54,9.709-18.85,3.11-6.058,6.463-12,9.966-17.652l448.492-.1.1,738.139a262.3,262.3,0,0,1-44.961,9.452A477.481,477.481,0,0,1-997.913,995Z" transform="translate(2495.407 -244)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+      <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(0 334)" clip-path="url(#clip-path)">
+        <g transform="translate(-15 -509)">
+          <circle id="Ellipse_33" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -509)">
+          <circle id="Ellipse_33-2" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -509)">
+          <circle id="Ellipse_33-3" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -509)">
+          <circle id="Ellipse_33-4" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -492)">
+          <circle id="Ellipse_33-5" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -492)">
+          <circle id="Ellipse_33-6" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -492)">
+          <circle id="Ellipse_33-7" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -492)">
+          <circle id="Ellipse_33-8" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -475)">
+          <circle id="Ellipse_33-9" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -475)">
+          <circle id="Ellipse_33-10" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -475)">
+          <circle id="Ellipse_33-11" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -475)">
+          <circle id="Ellipse_33-12" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -458)">
+          <circle id="Ellipse_33-13" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -458)">
+          <circle id="Ellipse_33-14" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -458)">
+          <circle id="Ellipse_33-15" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -458)">
+          <circle id="Ellipse_33-16" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -441)">
+          <circle id="Ellipse_33-17" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -441)">
+          <circle id="Ellipse_33-18" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -441)">
+          <circle id="Ellipse_33-19" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -441)">
+          <circle id="Ellipse_33-20" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -424)">
+          <circle id="Ellipse_33-21" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -424)">
+          <circle id="Ellipse_33-22" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -424)">
+          <circle id="Ellipse_33-23" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -424)">
+          <circle id="Ellipse_33-24" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -407)">
+          <circle id="Ellipse_33-25" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -407)">
+          <circle id="Ellipse_33-26" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -407)">
+          <circle id="Ellipse_33-27" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -407)">
+          <circle id="Ellipse_33-28" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -390)">
+          <circle id="Ellipse_33-29" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -390)">
+          <circle id="Ellipse_33-30" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -390)">
+          <circle id="Ellipse_33-31" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -390)">
+          <circle id="Ellipse_33-32" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -373)">
+          <circle id="Ellipse_33-33" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -373)">
+          <circle id="Ellipse_33-34" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -373)">
+          <circle id="Ellipse_33-35" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -373)">
+          <circle id="Ellipse_33-36" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -356)">
+          <circle id="Ellipse_33-37" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -356)">
+          <circle id="Ellipse_33-38" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -356)">
+          <circle id="Ellipse_33-39" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -356)">
+          <circle id="Ellipse_33-40" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -339)">
+          <circle id="Ellipse_33-41" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -339)">
+          <circle id="Ellipse_33-42" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -339)">
+          <circle id="Ellipse_33-43" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -339)">
+          <circle id="Ellipse_33-44" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -322)">
+          <circle id="Ellipse_33-45" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -322)">
+          <circle id="Ellipse_33-46" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -322)">
+          <circle id="Ellipse_33-47" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -322)">
+          <circle id="Ellipse_33-48" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -305)">
+          <circle id="Ellipse_33-49" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -305)">
+          <circle id="Ellipse_33-50" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -305)">
+          <circle id="Ellipse_33-51" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -305)">
+          <circle id="Ellipse_33-52" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -288)">
+          <circle id="Ellipse_33-53" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -288)">
+          <circle id="Ellipse_33-54" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -288)">
+          <circle id="Ellipse_33-55" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -288)">
+          <circle id="Ellipse_33-56" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -271)">
+          <circle id="Ellipse_33-57" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -271)">
+          <circle id="Ellipse_33-58" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -271)">
+          <circle id="Ellipse_33-59" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -271)">
+          <circle id="Ellipse_33-60" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -254)">
+          <circle id="Ellipse_33-61" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -254)">
+          <circle id="Ellipse_33-62" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -254)">
+          <circle id="Ellipse_33-63" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -254)">
+          <circle id="Ellipse_33-64" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -237)">
+          <circle id="Ellipse_33-65" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -237)">
+          <circle id="Ellipse_33-66" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -237)">
+          <circle id="Ellipse_33-67" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -237)">
+          <circle id="Ellipse_33-68" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -220)">
+          <circle id="Ellipse_33-69" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -220)">
+          <circle id="Ellipse_33-70" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -220)">
+          <circle id="Ellipse_33-71" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -220)">
+          <circle id="Ellipse_33-72" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -203)">
+          <circle id="Ellipse_33-73" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -203)">
+          <circle id="Ellipse_33-74" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -203)">
+          <circle id="Ellipse_33-75" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -203)">
+          <circle id="Ellipse_33-76" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(-15 -186)">
+          <circle id="Ellipse_33-77" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(2 -186)">
+          <circle id="Ellipse_33-78" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(19 -186)">
+          <circle id="Ellipse_33-79" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+        <g transform="translate(36 -186)">
+          <circle id="Ellipse_33-80" data-name="Ellipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15 509)" fill="#a8aabc"/>
+        </g>
+      </g>
+      <path id="Path_234" data-name="Path 234" d="M2516.333,186.333s-34.833-10.667-17-40.667,58.333,17,58.333,17,5.833-29.667,20.5-27.833S2602,163.5,2602,163.5s12.167-5.667,23.333,3.167,11.833,19.667,11.833,19.667Z" transform="translate(-1668.167 -1.543)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_235" data-name="Path 235" d="M2510.771,173.34s-26.059-7.98-12.718-30.423,43.639,12.718,43.639,12.718,4.364-22.194,15.336-20.822,17.83,21.446,17.83,21.446,9.1-4.239,17.456,2.369,8.853,14.713,8.853,14.713Z" transform="translate(-1785.167 73.66)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
