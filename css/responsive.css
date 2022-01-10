@@ -10,8 +10,11 @@
   }
   .bg .font {
     position: absolute;
-    left: 35%;
-    top: 56%;
+    left: 50%;
+    top: 42%;
+  }
+  .bg .font img {
+    width: 90%;
   }
   .firstr img, .secr img, .thirdr img {
     width: 80%;
