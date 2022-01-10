@@ -33,5 +33,4 @@ $(".owl-carousel").owlCarousel({
           }
         }
       }
-      
-      window.addEventListener("scroll", reveal);
+ window.addEventListener("scroll", reveal);
