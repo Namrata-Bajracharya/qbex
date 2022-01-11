@@ -7,8 +7,8 @@
   }
   .bg .font {
     position: absolute;
-    left: 15%;
-    top: 47%;
+    left: 15% !important;
+    top: 47% !important;
   }
   .bg .font img {
     width: 90%;
