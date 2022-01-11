@@ -16,6 +16,10 @@
   .firstr img, .secr img, .thirdr img {
     width: 80%;
   }
+  .features .use {
+    text-align: left;
+    padding: 20px 0 0 20px;
+  }
 }
 
 @media only screen and (max-width: 780px) {
@@ -34,9 +38,6 @@
   .description h3 {
     font-size: 34px;
   }
-  .test {
-    height: 700px;
-  }
   .emg img, .row1 img, .row2 img, .down-banner img {
     width: 100%;
   }
@@ -45,11 +46,8 @@
     padding-bottom: 75px !important;
   }
   .use h3 {
-    display: block;
+    display: block !important;
     font-size: 24px;
-  }
-  .use {
-    padding-left: 0px !important;
   }
   .navbar {
     width: 100%;
@@ -102,9 +100,6 @@
   .description h3 {
     font-size: 34px;
   }
-  .test {
-    height: 1200px !important;
-  }
   .emg img, .row1 img, .row2 img, .down-banner img {
     width: 100%;
   }
@@ -113,7 +108,7 @@
     padding-bottom: 75px !important;
   }
   .use h3 {
-    display: block;
+    display: block !important;
     font-size: 24px;
   }
   .use {

@@ -3,10 +3,12 @@
     .container{max-width:100%;}
     .bg-google-icon{display: none;}
     .bg .font {position: absolute; left: 50%;top: 30%;}
-    .bg .font img{
-        width: 90%;
-    }
+    .bg .font img{width: 90%;}
     .firstr img, .secr img, .thirdr img{width: 80%;}
+    .features .use {
+        text-align: left;
+        padding: 20px 0 0 20px;
+    }
 
 }
 @media only screen and (max-width:780px) {
@@ -19,11 +21,10 @@
     .description,.banner-content,.p-font,.bttn-icon img,.try-head img{width: auto;}
     .services-btn,.rightimg,.features h3,.thirdr,.bttn, .menu,.bg-google-icon{display: none!important;}
     .description h3{font-size:34px; }
-    .test{height:700px;}
     .emg img,.row1 img,.row2 img,.down-banner img{width: 100%;}
     .use{padding-top:0; padding-bottom: 75px!important;}
-    .use h3{display: block;font-size: 24px;}
-    .use{padding-left: 0px!important;}
+    .use h3{display: block !important;font-size: 24px;}
+
     .navbar{ width:100%;}
     #navbarSupportedContent{width: 100%;background-color:none;padding: 0; }
     header{ #navbarSupportedContent{width: 100%;background-color: var(--brand);padding: 0; }}
@@ -42,10 +43,9 @@
     .description,.banner-content,.p-font,.bttn-icon img,.try-head img{width: auto;}
     .services-btn,.rightimg,.features h3,.thirdr,.bttn, .menu{display: none!important;}
     .description h3{font-size:34px; }
-    .test{height:1200px!important;}
     .emg img,.row1 img,.row2 img, .down-banner img{width: 100%;}
     .use{padding-top:0; padding-bottom: 75px!important;}
-    .use h3{display: block;font-size: 24px;}
+    .use h3{display: block!important;font-size: 24px;}
     .use{padding-left: 0px!important;}
     .navbar{ width:100%;}
     #navbarSupportedContent{width: 100%;background-color: #ffffff;padding: 0; }
