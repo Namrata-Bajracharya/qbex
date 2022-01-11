@@ -1,30 +1,22 @@
 
 @media only screen and (max-width:1024px) {
-    .container{max-width:100%;}
+    .container{max-width:auto;}
     .bg-google-icon{display: none;}
-    .font {position: absolute; left:53%!important;top:49%!important;}
+    .font {position: absolute; left:13%!important;top:56%!important;}
     .bg .font img{width: 90%;}
     .firstr img, .secr img, .thirdr img{width: 80%;}
-    .features .use {
-        text-align: left;
-        padding: 20px 0 0 20px;
-    }
+    .features .use {text-align: left;padding: 20px 0 0 20px;}
 
 }
 @media only screen and (max-width:780px) {
-    .container{
-        max-width:100%;
-    }
-    .try{
-        height: auto;
-    }
+    .container{max-width:100%;}
+    .try{height: auto;}
     .description,.banner-content,.p-font,.bttn-icon img,.try-head img{width: auto;}
     .services-btn,.rightimg,.features h3,.thirdr,.bttn, .menu,.bg-google-icon{display: none!important;}
     .description h3{font-size:34px; }
     .emg img,.row1 img,.row2 img,.down-banner img{width: 100%;}
     .use{padding-top:0; padding-bottom: 75px!important;}
     .use h3{display: block !important;font-size: 24px;}
-
     .navbar{ width:100%;}
     #navbarSupportedContent{width: 100%;background-color:none;padding: 0; }
     header{ #navbarSupportedContent{width: 100%;background-color: var(--brand);padding: 0; }}
@@ -39,7 +31,7 @@
     }
 }
 @media only screen and (max-width:480px) {
-    .container{max-width: 100%;}
+    .container{max-width:100%;}
     .description,.banner-content,.p-font,.bttn-icon img,.try-head img{width: auto;}
     .services-btn,.rightimg,.features h3,.thirdr,.bttn, .menu{display: none!important;}
     .description h3{font-size:34px; }
