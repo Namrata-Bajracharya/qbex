@@ -2,8 +2,8 @@
 @media only screen and (max-width:1024px) {
     .container{max-width:auto!important;}
     .bg-google-icon{display: none;}
-    .font {position: absolute; left:13%!important;top:56%!important;}
-    .bg .font img{width: 90%;}
+    .font {position: absolute; left:12%!important;top:58%!important;}
+    .bg .font img{width: 100%;}
     .firstr img, .secr img, .thirdr img{width: 80%;}
     .features .use {text-align: left;padding: 20px 0 0 20px;}
     .pg2 img,.row1 img{ width: 100%;}
@@ -12,7 +12,7 @@
     .prospectus .card{margin-bottom: 40px;}
 
 }
-@media only screen and (max-width:780px) {
+@media only screen and (max-width:768px) {
     .container{max-width:100%;}
     .try{height: auto;}
     .description,.banner-content,.p-font,.bttn-icon img,.try-head img{width: auto;}
@@ -28,7 +28,7 @@
     .pack.card{margin-bottom: 25px;}
     .prospectus{ text-align: center;}
     .down .prospectus .card .botton {font-size: 16px;}
-    .bg .font {position: absolute; left:12%;top: 45%; }
+    .bg .font {position: absolute; left:15%!important;top: 55%!important; }
     .bg .banner-content {
         padding-top: 250px;
     }

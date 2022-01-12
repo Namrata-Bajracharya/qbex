@@ -7,11 +7,11 @@
   }
   .font {
     position: absolute;
-    left: 13% !important;
-    top: 56% !important;
+    left: 12% !important;
+    top: 58% !important;
   }
   .bg .font img {
-    width: 90%;
+    width: 100%;
   }
   .firstr img, .secr img, .thirdr img {
     width: 80%;
@@ -40,7 +40,7 @@
   }
 }
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 768px) {
   .container {
     max-width: 100%;
   }
@@ -90,8 +90,8 @@
   }
   .bg .font {
     position: absolute;
-    left: 12%;
-    top: 45%;
+    left: 15% !important;
+    top: 55% !important;
   }
   .bg .banner-content {
     padding-top: 250px;
