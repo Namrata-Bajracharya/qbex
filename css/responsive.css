@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1024px) {
   .container {
-    max-width: auto;
+    max-width: auto !important;
   }
   .bg-google-icon {
     display: none;
@@ -19,6 +19,24 @@
   .features .use {
     text-align: left;
     padding: 20px 0 0 20px;
+  }
+  .pg2 img, .row1 img {
+    width: 100%;
+  }
+  header #navbarSupportedContent {
+    width: 100%;
+    background-color: var(--brand);
+    padding: 0;
+    text-align: center;
+  }
+  #navbarSupportedContent {
+    width: 100%;
+    background-color: none;
+    padding: 0;
+    text-align: center;
+  }
+  .prospectus .card {
+    margin-bottom: 40px;
   }
 }
 
@@ -53,14 +71,7 @@
     width: 100%;
   }
   #navbarSupportedContent {
-    width: 100%;
-    background-color: none;
-    padding: 0;
-  }
-  header #navbarSupportedContent {
-    width: 100%;
-    background-color: var(--brand);
-    padding: 0;
+    background-color: white;
   }
   .pg2 {
     padding-top: 0;

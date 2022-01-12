@@ -1,11 +1,15 @@
 
 @media only screen and (max-width:1024px) {
-    .container{max-width:auto;}
+    .container{max-width:auto!important;}
     .bg-google-icon{display: none;}
     .font {position: absolute; left:13%!important;top:56%!important;}
     .bg .font img{width: 90%;}
     .firstr img, .secr img, .thirdr img{width: 80%;}
     .features .use {text-align: left;padding: 20px 0 0 20px;}
+    .pg2 img,.row1 img{ width: 100%;}
+    header{ #navbarSupportedContent{width: 100%;background-color: var(--brand);padding: 0; text-align: center; }}
+    #navbarSupportedContent{width: 100%;background-color:none;padding: 0;text-align: center;}
+    .prospectus .card{margin-bottom: 40px;}
 
 }
 @media only screen and (max-width:780px) {
@@ -18,8 +22,7 @@
     .use{padding-top:0; padding-bottom: 75px!important;}
     .use h3{display: block !important;font-size: 24px;}
     .navbar{ width:100%;}
-    #navbarSupportedContent{width: 100%;background-color:none;padding: 0; }
-    header{ #navbarSupportedContent{width: 100%;background-color: var(--brand);padding: 0; }}
+    #navbarSupportedContent{background-color:white; }
     .pg2{padding-top: 0;}
     .pg2-content{padding-top: 105px!important;}
     .pack.card{margin-bottom: 25px;}
