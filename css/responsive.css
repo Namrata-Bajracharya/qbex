@@ -23,12 +23,6 @@
   .pg2 img, .row1 img {
     width: 100%;
   }
-  header #navbarSupportedContent {
-    width: 100%;
-    background-color: var(--brand);
-    padding: 0;
-    text-align: center;
-  }
   #navbarSupportedContent {
     width: 100%;
     background-color: none;
@@ -69,6 +63,12 @@
   }
   .navbar {
     width: 100%;
+  }
+  header #navbarSupportedContent {
+    width: 100%;
+    background-color: var(--brand);
+    padding: 0;
+    text-align: center;
   }
   #navbarSupportedContent {
     background-color: white;
